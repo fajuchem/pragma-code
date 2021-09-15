@@ -7,6 +7,10 @@ This project uses
 * Golang 1.17
 ## Available scripts
 
-### Root
-- `go run main.go` - Start the server from server directory (http://localhost:4000)
-- `npm run start` - Start the client from client directory (http://localhost:3000)
+### Run project
+
+From client directory: 
+- `npm install` - Install dependencies
+- `npm run build` - Build the client application
+From server directory
+- `go run main.go` - Start the server (http://localhost:4000)
