@@ -1,4 +1,4 @@
-# What was sone on the challenge
+# What was done on the challenge
 
 - [client](https://github.com/fajuchem/pragma-code/blob/master/client/README.md)
 - [server](https://github.com/fajuchem/pragma-code/blob/master/server/README.md)
