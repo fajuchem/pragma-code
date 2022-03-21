@@ -1,3 +1,8 @@
+# What was sone on the challenge
+
+- [client](https://github.com/fajuchem/pragma-code/blob/master/client/README.md)
+- [server](https://github.com/fajuchem/pragma-code/blob/master/server/README.md)
+
 # Pragmateam code challenge (Golang)
 
 Please refer to the provided document for the code challenge requirements.
